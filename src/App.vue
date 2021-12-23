@@ -1,6 +1,6 @@
 <template>
   <DisplayUser :name = "name" />
-  <button @click = "onClick()">Find baari</button>
+  <button @click = "onClick()">Find a person</button>
 </template>
 
 <script>
@@ -23,11 +23,11 @@ export default {
 "Ashwani Sharma","Bikesh Kumar01","Chirag Khandelwal","Deepshi Sharma",
 "Dinesh Samal","Ekta Srivastava","Himanshu Nigam","Jay Paliwal",
 "Kanika Garg","Kunal Sharma","Mayank Goyal","Mohit Mehta","Nishtha Ghai",
-"Piyush Dadhich","Piyush Sharma","Prachi Matta","Prateek Gangwal","Puneet Kumar Mahawar",
+"Piyush Dadhich","Piyush Sharma","Prachi Matta","Puneet Kumar Mahawar",
 "Ram Singhal","Ravi Kumar","Rishabh Jain","Rishabh Kumawat","Sakshi Singhal","Shaminder Sekhon",
 "Sharad Agarwal","Shashank Salaj","Shivam Pathak","Shivank Meena","Shivanshi Tripathi",
 "Shobha Raghav","Shobhit Sharma","Subhash Nirwan","Subodh Sharma","Twinkle Jangid",
-"Uttam Gupta","Vanshika Gandhi","Rishabh goel01","Vinita Agrawal"
+"Uttam Gupta","Vanshika Gandhi","Rishabh goel01","Vinita Agrawal", "Shilpa Sudhakar", "Akhilesh Tank", "Saneesh Ms"
  ], name:''}
   },
   created(){
